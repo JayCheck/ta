@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202505201401
-! Title: one_filter_test_allow.txt
+! Title: two_filter_test_both.txt
 ! Last modified: 20 May 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 !
