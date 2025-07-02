@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202505201401
-! Title: two_filter_test_both.txt
+! Title: one_filter_test_allow.txt
 ! Last modified: 20 May 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 !
@@ -9,5 +9,3 @@
 !   which purpose is to guarantee that a filter won't be overriden by
 !  abp:subscribe?location=http%3A%2F%2Fpgl.yoyo.org%2Fadservers%2Fserverlist.php%3Fhostformat%3Dadblockplus%26mimetype%3Dplaintext&title=Peter%20Lowe%27s%20list
 @@||tivan.naver.com^
-||tivan.naver.com^
-||tivan.naver.com^
