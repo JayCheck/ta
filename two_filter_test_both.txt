@@ -10,4 +10,3 @@
 !  abp:subscribe?location=http%3A%2F%2Fpgl.yoyo.org%2Fadservers%2Fserverlist.php%3Fhostformat%3Dadblockplus%26mimetype%3Dplaintext&title=Peter%20Lowe%27s%20list
 @@||tivan.naver.com^
 ||tivan.naver.com^
-||tivan.naver.com^
