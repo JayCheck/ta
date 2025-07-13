@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202508201401
 ! Title: EasyList by JC (minified)
-! Last modified: 20 May 2025 14:01 UTC
+! Last modified: 20 Aug 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 !
 !   Some of these filters make use of the `important` filter option,`
