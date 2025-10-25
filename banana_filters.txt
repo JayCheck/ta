@@ -1,7 +1,7 @@
 
- @@||dailymotion.com^$ghide 
+ @@||dailymotion.com^$ghide
 !
-! 
+!
 !              The purpose is to at least ensure a user is warned of the risks ahead.
 !              consent. Any such resource-abuse scripts MUST be opt-in, with complete
 !              exception filters.
@@ -329,7 +329,7 @@
 ! Arabic
 ! Armenian
 ! As of 2020-04-09, new filters will be added to year-based sublists
-! Attribution Reporting 
+! Attribution Reporting
 ! Azerbaijani
 ! BT
 ! Badware
@@ -439,7 +439,7 @@
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc.
 ! Description: Some of these filters make use of the `important` filter option,
 ! Description: To foil sites potentially abusing CPU/bandwidth resources without informed
-! Description: To foil sites potentially abusing CPU/bandwidth resources without informed consent. 
+! Description: To foil sites potentially abusing CPU/bandwidth resources without informed consent.
 ! Description: |
 ! Disabled
 ! Disabled:
@@ -476,7 +476,7 @@
 ! Fake WordPress plugins loading ads/malware
 ! Fake cloudflare screen
 ! Fanfiktion.de
-! Federated Credential Management 
+! Federated Credential Management
 ! Filter for testpages.adblockplus.org
 ! Filters for ABP testpages
 ! Fingerprint
@@ -626,10 +626,10 @@
 ! Prevent popunders + redirections on multiple websites
 ! Prevents cookiebot GDPR script from loading
 ! Privacy sandbox - https://developers.google.com/privacy-sandbox/private-advertising/setup/web/permissions-policy
-! Private Aggregation 
-! Private State Tokens 
+! Private Aggregation
+! Private State Tokens
 ! Prosieben
-! Protected Audience 
+! Protected Audience
 ! ProtonGE - Official site: https://github.com/GloriousEggroll/proton-ge-custom
 ! PubExchange
 ! Query parameter stripping
@@ -900,7 +900,7 @@
 ! avforums.com
 ! azarplus.com ads
 ! babesxworld site blocked by french list
-! bad filter from CZE, SVK: EasyList Czech and Slovak breaking 
+! bad filter from CZE, SVK: EasyList Czech and Slovak breaking
 ! bad filters in smed79 french list
 ! bad*.it network sites
 ! bahag.tt.omtrdc.net disguised trackers
@@ -1433,7 +1433,7 @@
 ! https://elevenlabs.io/dubbing - Stores the last dubbing result
 ! https://elotrolado.net/hilo_el-podcast-de-eol-episodio-43-e3-cronica-de-una-muerte-anunciada_2360079
 ! https://en.pronouns.page/
-! https://eu.4game.com/ 
+! https://eu.4game.com/
 ! https://evalian.co.uk/inside-a-red-bull-themed-recruitment-phishing-campaign/
 ! https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/click-data-pixels
 ! https://farnet.io/1401/08/324594/rubika-is-detected-as-malware/
@@ -7116,7 +7116,7 @@
 ! https://github.com/uBlockOrigin/uAssets/issues/996
 ! https://github.com/uBlockOrigin/uAssets/issues/9970
 ! https://github.com/uBlockOrigin/uAssets/issues/9983
-! https://github.com/uBlockOrigin/uAssets/pull/10005 CNAME breakage by Peter Lowe's 
+! https://github.com/uBlockOrigin/uAssets/pull/10005 CNAME breakage by Peter Lowe's
 ! https://github.com/uBlockOrigin/uAssets/pull/10017
 ! https://github.com/uBlockOrigin/uAssets/pull/10059
 ! https://github.com/uBlockOrigin/uAssets/pull/10142
@@ -9157,7 +9157,7 @@
 ! https://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/page-180#post-2922999
 ! https://www.winboard.org/threads/interaktion-auf-website-nicht-moeglich-wwm-trainigslager.250843/
 ! https://www.windowscentral.com/software-apps/opera-will-independently-continue-supporting-ublock-origin
-! https://www.wionews.com/videos/political-turmoil-deepens-in-south-korea - no video 
+! https://www.wionews.com/videos/political-turmoil-deepens-in-south-korea - no video
 ! https://www.wired.com/2011/08/google-studying-re-ranking-search-results-using-1-button-data-but-its-touchy/
 ! https://www.wolverine.com/
 ! https://www.wordfence.com/blog/2019/08/malicious-wordpress-redirect-campaign-attacking-several-plugins/
@@ -10313,7 +10313,7 @@
 ! spellchecker.net ad-reinsertion
 ! spiegelverlagrudolfa.tt.omtrdc.net disguised trackers
 ! sport stuff
-! sport stuff 
+! sport stuff
 ! sportlemons. net / org popups / ads
 ! sports streams vipleague
 ! sportskeeda. com blocked video
@@ -10395,7 +10395,7 @@
 ! too broad
 ! top-level domain wildcard
 ! topserialy. si, sledujfilmy. io etc
-! torrdroidforpc. com 
+! torrdroidforpc. com
 ! torrentfreak.com
 ! tracking.bp01.net disguised trackers https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/np6.txt
 ! tracking.bp01.net disguised trackers https://github.com/AdguardTeam/cname-trackers/blob/master/trackers/np6.txt
@@ -49437,7 +49437,7 @@ androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[id^="adsninja-ad-zone-adsninja-ad-unit-footer"]
 androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,tyretradenews.co.uk##.ai-track
-androidpolice.com,makeuseof.com,movieweb.com,xda-developers.com##+js(cookie-remover, /articlesRead|previousPage/) 
+androidpolice.com,makeuseof.com,movieweb.com,xda-developers.com##+js(cookie-remover, /articlesRead|previousPage/)
 androidrepublic.org##+js(acs, $, samInitDetection)
 androidrepublic.org##+js(nobab)
 androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkulubu.com,pixiz.com,spoilertv.com#@#ins.adsbygoogle
@@ -55469,8 +55469,8 @@ fstream365.xyz###overlay-ads
 ft.com##pg-slot.pg-slot[id]
 ftlauderdalebeachcam.com,ftlauderdalewebcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,portstthomaswebcam.com,porttampawebcam.com,sxmislandcam.com##+js(nostif, innerHTML)
 ftlauderdalebeachcam.com,ftlauderdalewebcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,portstthomaswebcam.com,porttampawebcam.com,sxmislandcam.com##.horiz-banner-box-1, .info-left, .info-right
-ftlauderdalebeachcam.com,ftlauderdalewebcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,porttampawebcam.com,sxmislandcam.com##+js(nostif, innerHTML)  
-ftlauderdalebeachcam.com,ftlauderdalewebcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,porttampawebcam.com,sxmislandcam.com##.horiz-banner-box-1, .info-left, .info-right  
+ftlauderdalebeachcam.com,ftlauderdalewebcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,porttampawebcam.com,sxmislandcam.com##+js(nostif, innerHTML)
+ftlauderdalebeachcam.com,ftlauderdalewebcam.com,juneauharborwebcam.com,keywestharborwebcam.com,kittycatcam.com,mahobeachcam.com,miamiairportcam.com,morganhillwebcam.com,njwildlifecam.com,nyharborwebcam.com,paradiseislandcam.com,pompanobeachcam.com,portbermudawebcam.com,portcanaveralwebcam.com,portevergladeswebcam.com,portmiamiwebcam.com,portnywebcam.com,portnassauwebcam.com,portstmaartenwebcam.com,porttampawebcam.com,sxmislandcam.com##.horiz-banner-box-1, .info-left, .info-right
 ftopx.com##+js(acis, document.querySelectorAll, popMagic)
 ftopx.com##+js(aopr, ExoLoader.addZone)
 ftopx.com##+js(aopr, exoJsPop101)
@@ -206004,3 +206004,4 @@ zycrypto.com##.td-a-rec-id-custom_ad_2
 ~rocketnews24.com,~soranews24.com,~youpouch.com,*##[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 ~support.ublock.org,ublock.org##main::before:style(content: 'uBlock is unrelated to the well-known uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
 ~vipbox.pl,vipbox.*,vipboxtv.*##.position-absolute
+m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
