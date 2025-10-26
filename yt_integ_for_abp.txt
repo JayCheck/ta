@@ -24,7 +24,7 @@ youtube.com##ytd-rich-item-renderer:-abp-has(a[href*="/shorts/"])
 youtube.com##ytd-compact-video-renderer:-abp-has(a[href*="/shorts/"])
 
 ! YT Mobile - Hide the Shorts Menu button
-m.youtube.com##ytm-pivot-bar-item-renderer:-abp-has(>.pivot-shorts)
+m.youtube.com##ytm-pivot-bar-item-renderer:-abp-has(.pivot-shorts)
 ! YT Mobile - Hide the Shorts sections
 m.youtube.com##ytm-reel-shelf-renderer
 ! YT Mobile - Hide Shorts in search results
