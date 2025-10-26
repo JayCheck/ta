@@ -9,48 +9,48 @@ youtube.com##[is-shorts]
 ! YT Menu - Hide the Shorts button
 youtube.com###guide [title="Shorts"]
 ! YT Search - Hide Shorts (alternative)
-youtube.com##ytd-video-renderer:abp-has(a[href*="/shorts/"])
+youtube.com##ytd-video-renderer:-abp-has(a[href*="/shorts/"])
 ! YT Search, Channels and Sidebar or below the player - Hide the Shorts sections
 youtube.com##ytd-reel-shelf-renderer
 ! YT Channels - Hide the Shorts tab
 youtube.com##tp-yt-paper-tab[aria-label="Shorts"]
 ! YT Subscriptions - Hide Shorts - Grid View
-youtube.com##ytd-grid-video-renderer:abp-has(a[href*="/shorts/"])
+youtube.com##ytd-grid-video-renderer:-abp-has(a[href*="/shorts/"])
 ! YT Subscriptions - Hide Shorts - List View
-youtube.com##ytd-video-renderer:abp-has(a[href*="/shorts/"])
+youtube.com##ytd-video-renderer:-abp-has(a[href*="/shorts/"])
 ! YT Subscriptions - New Layout - Hide Shorts
-youtube.com##ytd-rich-item-renderer:abp-has(a[href*="/shorts/"])
+youtube.com##ytd-rich-item-renderer:-abp-has(a[href*="/shorts/"])
 ! YT Sidebar - Hide Shorts
-youtube.com##ytd-compact-video-renderer:abp-has(a[href*="/shorts/"])
+youtube.com##ytd-compact-video-renderer:-abp-has(a[href*="/shorts/"])
 
 ! YT Mobile - Hide the Shorts Menu button
-m.youtube.com##ytm-pivot-bar-item-renderer:abp-has(>.pivot-shorts)
+m.youtube.com##ytm-pivot-bar-item-renderer:-abp-has(>.pivot-shorts)
 ! YT Mobile - Hide the Shorts sections
 m.youtube.com##ytm-reel-shelf-renderer
 ! YT Mobile - Hide Shorts in search results
-m.youtube.com##ytm-video-with-context-renderer:abp-has(a[href*="/shorts/"])
+m.youtube.com##ytm-video-with-context-renderer:-abp-has(a[href*="/shorts/"])
 ! YT Mobile - Hide the Shorts button on Channels
 m.youtube.com##tp-yt-paper-tab[aria-label="Shorts"]
 
 ! Youtube Shorts
 ! Main page
-youtube.com##ytd-rich-section-renderer:abp-has(a[href^="/shorts/"])
+youtube.com##ytd-rich-section-renderer:-abp-has(a[href^="/shorts/"])
 m.youtube.com##.rich-section-content
 ! Trending page
-youtube.com##ytd-reel-shelf-renderer:abp-has(a[href^="/shorts/"])
+youtube.com##ytd-reel-shelf-renderer:-abp-has(a[href^="/shorts/"])
 ! Search/Trending page (Android)
 youtube.com##ytm-reel-shelf-renderer
 youtube.com##.media-item-thumbnail-container[aria-hidden][href^="/shorts/"]
-youtube.com##ytm-media-item:abp-has(a[href^="/shorts/"])
+youtube.com##ytm-media-item:-abp-has(a[href^="/shorts/"])
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
-youtube.com##ytd-video-renderer > .ytd-video-renderer:abp-has(a[href^="/shorts/"])
+youtube.com##ytd-video-renderer > .ytd-video-renderer:-abp-has(a[href^="/shorts/"])
 ! side shorts
 youtube.com###items.yt-horizontal-list-renderer > ytd-reel-item-renderer
 ! shorts icons (desktop and mobile)
 youtube.com##.pivot-shorts.pivot-bar-item-tab
 youtube.com##.yt-simple-endpoint[title="Shorts"]
 ! Updated rules
-youtube.com##.ytGridShelfViewModelHost:abp-has-text(Shorts)
+youtube.com##.ytGridShelfViewModelHost:-abp-has-text(Shorts)
 ! Youtube recommendations
 ! Up next
 m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
@@ -59,7 +59,7 @@ m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
 ! top bar
 ! m.youtube.com##.chip-bar
 ! welcome text (non-logged in)
-m.youtube.com##.feed-nudge-wrapper:abp-has-text(Try searching to get started)
+m.youtube.com##.feed-nudge-wrapper:-abp-has-text(Try searching to get started)
 ! End Card
 m.youtube.com##.ytm-player-endscreen
 ! Youtube recommendations
@@ -70,6 +70,6 @@ m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
 ! top bar
 ! m.youtube.com##.chip-bar
 ! welcome text (non-logged in)
-m.youtube.com##.feed-nudge-wrapper:abp-has-text(Try searching to get started)
+m.youtube.com##.feed-nudge-wrapper:-abp-has-text(Try searching to get started)
 ! End Card
 m.youtube.com##.ytm-player-endscreen
