@@ -19,3 +19,4 @@
 ||tivan.naver.com^
 ||tivan.naver.com^
 ||tivan.naver.com^
+www.youtube.com#$#json-prune 'entries.[-].command.reelWatchEndpoint.adClientParams.isAd'
