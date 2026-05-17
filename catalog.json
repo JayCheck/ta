@@ -1,44 +1,58 @@
 {
-  "resources_url": "https://jaycheck.github.io/ta/resources/resources.json",
+  "resources": [
+    {
+      "id": "cosmetic_resources",
+      "version": "202605170352",
+      "url": "https://jaycheck.github.io/ta/resources/resources.json"
+    }
+  ],
   "filter_sources": [
     {
       "id": "ublock_filters",
       "title": "uBlock Origin Filters",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/filters.txt"
     },
     {
       "id": "ublock_badware",
       "title": "uBlock Origin filters - Badware risks",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/badware.txt"
     },
     {
       "id": "ublock_privacy",
       "title": "uBlock Origin filters - Privacy",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/privacy.txt"
     },
     {
       "id": "ublock_resource_abuse",
       "title": "uBlock Origin filters - Resource abuse",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/resource-abuse.txt"
     },
     {
       "id": "ublock_unbreak",
       "title": "uBlock Origin filters - Unbreak",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/unbreak.txt"
     },
     {
       "id": "easylist",
       "title": "EasyList",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/easylist.txt"
     },
     {
       "id": "easyprivacy",
       "title": "EasyPrivacy",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/easyprivacy.txt"
     },
     {
       "id": "easylist_korean",
       "title": "EasyList Korean",
+      "version": "202605170352",
       "url": "https://jaycheck.github.io/ta/filters/koreanlist.txt"
     }
   ]
